@@ -1,0 +1,11 @@
+{
+  "name": "elitea-playwright-tests",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "test": "npx playwright test --reporter=list"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.40.0"
+  }
+}
